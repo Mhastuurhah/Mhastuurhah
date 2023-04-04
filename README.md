@@ -1,5 +1,5 @@
 ### About me
-👋 Hi, I’m Masturah, a passionate self-taught web developer from Nigeria. 
+👋 Hi, I’m Masturah, a passionate self-taught machine learning engineer from Nigeria. 
 - I'm a data science enthusiast who enjoys writing python code in my leisure.
 - I love to read books...
 <!--
